@@ -105,3 +105,4 @@ bin/
 pip-selfcheck.json
 .idea/
 conf/sysconf.py
+record.json
